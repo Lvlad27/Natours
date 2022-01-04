@@ -1,4 +1,4 @@
-# Natours
+# Description
 
 This is a website I made while doing the Advanced CSS and Sass Udemy course from Jonas Schmedtmann. The project was made in order to learn the following:
 
