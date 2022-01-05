@@ -1,6 +1,14 @@
-# Natours
+# Description
 
 This is a website I made while doing the Advanced CSS and Sass Udemy course from Jonas Schmedtmann. The project was made in order to learn the following:
+
+# Technologies
+
+- HTML5
+- SCSS
+- NPM & NPM scripts
+
+# What I've learned?
 
 - CSS techniques to create advanced designs and effects
 - Advanced CSS animations with @keyframes, animation and transition
